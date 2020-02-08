@@ -6,3 +6,9 @@ The following lines is just for learning purpose-
   Java
   Angular
   Bootstrap
+  HTML
+  CSS
+  javaScript
+  Django
+  Python
+
