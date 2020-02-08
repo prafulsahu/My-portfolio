@@ -9,7 +9,5 @@ The following lines is just for learning purpose-
   HTML
   CSS
   javaScript
-  Django
-  Python
   C/C++
 
