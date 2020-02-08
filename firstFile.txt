@@ -1,0 +1,8 @@
+Hi All, This is my first git repository project. 
+I'm new to git and i'm learning to how to use this git for better source code management(SCM).
+The following lines is just for learning purpose-
+  Php(Codeigniter framework)
+  C#
+  Java
+  Angular
+  Bootstrap
